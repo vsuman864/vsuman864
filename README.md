@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Vijay 👋  
 
-<!--
-**vsuman864/vsuman864** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **QA Engineer | Aspiring Developer**  
+🔍 Passionate about **Automation Testing, Web Development, and DevOps**  
+🚀 Always learning and building projects to sharpen my skills.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 👨‍💻 QA Engineer with experience in **Manual & Automation Testing** (Web, Android, iOS)  
+- 🧪 Skilled in **Selenium, Cypress, Appium, RestAssured**  
+- ⚡ Exploring **DevOps (CI/CD, GitHub Actions, Docker)**  
+- 🌐 Working on an **E-Commerce site with Shopify + Web Tech**  
+- 📍 Based in **Kota, Rajasthan (India)**  
+
+---
+
+## 🛠️ Tech Stack  
+- **Languages:** Java, JavaScript, Python  
+- **Testing Tools:** Selenium, TestNG, JUnit, Cypress, Appium, Postman  
+- **DevOps Tools:** Git, GitHub Actions, Docker, Jenkins (learning)  
+- **Databases:** MySQL, MongoDB (basics)  
+- **Others:** HTML, CSS, React (basics)  
+
+---
+## 📫 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vijay-suman-817a93167/)  
+- 🌐 [GitHub](https://github.com/vsuman864)
+-  vsuman864@gmail.com
+
