@@ -16,7 +16,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages:** Java, JavaScript, Python   
+- **Languages:** , JavaScript, Python java    
 - **Testing Tools:** Selenium, TestNG, JUnit, Cypress, , Postman  
 - **DevOps Tools:** Git, GitHub Actions, Docker,   (learning)  
 - **Databases:** MySQL,  (basics)  
