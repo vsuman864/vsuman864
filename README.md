@@ -1,30 +1,44 @@
-# Hi, I'm Vijay 👋  
+# Hi, I'm Vijay 👋
 
-💻 **QA Engineer | Aspiring Developer**  
-🔍 Passionate about **Automation Testing, Web Development, and DevOps**  
-🚀 Always learning and building projects to sharpen my skills.  
-
----
-
-## 🚀 About Me  
-- 👨‍💻 QA Engineer with experience in **Manual & Automation Testing** (Web, Android, iOS)  
-- 🧪 Skilled in **Selenium, Cypress, Appium, RestAssured**  
-- ⚡ Exploring **DevOps (CI/CD, GitHub Actions, Docker)**  
-- 🌐 Working on an **E-Commerce site with Shopify + Web Tech**  
-- 📍 Based in **Kota, Rajasthan (India) 
+💻 **QA Engineer | Automation Testing | Aspiring Developer**
+🚀 Always learning and building projects to sharpen my skills.
 
 ---
 
-## 🛠️ Tech Stack  
-- **Languages:** , JavaScript, Python java    
-- **Testing Tools:** Selenium, TestNG, JUnit, Cypress, , Postman  
-- **DevOps Tools:** Git, GitHub Actions, Docker,   (learning)  
-- **Databases:** MySQL,  (basics)  
-- **Others:** HTML, CSS, React (basics)  
+## 🚀 About Me
+
+- 🧪 QA Specialist with 2+ years of experience in **manual and automation testing**, focused on **Shopify / SaaS products**
+- 🔍 Hands-on across the full **STLC**: test planning, test cases, execution, bug reporting, regression
+- 🌐 4+ years of freelance **WordPress / PHP** development before moving into QA
+- ⚡ Currently exploring **DevOps** (CI/CD, GitHub Actions, Docker) and clean code practices
+- 📍 Based in **Kota, Rajasthan, India**
 
 ---
-## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vijay-suman-817a93167/)  
+
+## 🛠️ Tech Stack
+
+| Area | Tools |
+|---|---|
+| **Automation Testing** | Selenium (Python), pytest |
+| **API Testing** | Postman |
+| **Cross-browser / Device** | BrowserStack |
+| **Test Management** | Jira |
+| **Languages** | Python, JavaScript, Java (basics) |
+| **Version Control & CI/CD** | Git, GitHub Actions |
+| **Web** | HTML, CSS, PHP, WordPress, React (basics) |
+| **Database** | MySQL (basics) |
+| **Learning** | Docker, Cypress |
+
+---
+
+## 📌 Projects
+
+- [spotify-log](https://github.com/vsuman864/spotify-log): Python project
+- Selenium (Python) automation framework with Page Object Model and GitHub Actions: *coming soon*
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/vijay-suman-817a93167/)
 - 🌐 [GitHub](https://github.com/vsuman864)
--  vsuman864@gmail.com 
-
